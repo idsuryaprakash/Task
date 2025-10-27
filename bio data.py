@@ -1,0 +1,5 @@
+print("My name is : Surya prakash")
+print("Age is : 2")
+print("D.O.B : 25/2/2004")
+print("Address: madurai")
+print("Phone No: 9442059622")
