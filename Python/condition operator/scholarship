@@ -1,0 +1,13 @@
+a=int(input('Enter your mark '))
+b=int(input('Enter your attendence '))
+
+
+if a>=85:
+    print('you are eligible')
+    if b>=90:
+         print(' you are eligible')
+         print('you are selected')
+    else :
+        print(a,'your mark is good ,but your % is not eligible')
+else:
+    print(a,'you  not are eligible')

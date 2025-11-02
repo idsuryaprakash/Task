@@ -1,7 +1,9 @@
-a = int(input("enter your number"))
-b = int(input("enter your number"))
-a = a>b
-b = b>a
-print (f"the greater number is:{a} or {b}")
+a = int(input("enter the number"))
+b = int(input("enter the number"))
+if a>b:
+    print(a," is greater")
+else :print(b," is greater")
 
+        
 
+        

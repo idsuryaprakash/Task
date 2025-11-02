@@ -1,0 +1,4 @@
+a=20
+b=20
+
+print(f"sum is : {a+b} \n difference is {a-b} \n product is {a*b} \n quotient is {a/b}")
