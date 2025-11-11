@@ -1,0 +1,3 @@
+#6.How do you replace all spaces with underscore
+a = "Hello World"
+print(a.replace(" ","_"))

@@ -1,0 +1,5 @@
+tu = (1,2,3,4,5,6,7,8)
+print(tu)
+b= int(input("Enter the name for get Index value:"))
+c=tu.index(b)
+print(b,"Index is :",c)
